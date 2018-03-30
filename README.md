@@ -1,0 +1,2 @@
+# BrassBitCoinMiner
+Miner for BrassBitCoint.
